@@ -3,10 +3,10 @@
 
 ![](https://github.com/ClaraVargas2A/ClaraVargas2A.io/blob/main/github.png)
 
-[![Twitch Status](https://img.shields.io/twitch/status/Koocachookies?style=social)](https://twitch.com/koocachookies)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Koocachookies?style=social)](https://twitter.com/koocachookies)
-![GitHub Followers](https://img.shields.io/github/followers/danigomezcev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/danigomezcev?style=social)
+[![Twitch Status](https://img.shields.io/twitch/status/clervargas?style=social)](https://twitch.com/koocachookies)
+[![Twitter Follow](https://img.shields.io/twitter/follow/clervargas?style=social)](https://twitter.com/koocachookies)
+![GitHub Followers](https://img.shields.io/github/followers/clervargas?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/clervargas?style=social)
 [![](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&logoColor=E4405F)](https://www.instagram.com)
 
 ## Here are some of the softwares that I´m learning:
