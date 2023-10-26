@@ -1,7 +1,7 @@
 # Hi, my name is Cler :3
 ### Im an 3d Artist student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
-[](https://github.com/danigomezcev])
+[](https://github.com/ClaraVargas2A/ClaraVargas2A.io/blob/main/github.png)
 
 ![](https://cdna.artstation.com/p/users/avatars/006/800/436/large/392358a53f5a95a355690363fe56b59a.jpg)
 
